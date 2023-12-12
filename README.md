@@ -70,7 +70,6 @@
 
 <br/>  
 
-
-##Assignment
--<a herf="">Assignment 1
+## Assignment
+<a href="https://github.com/tanszeqing06/tanszeqing06/blob/main/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023%20(%20G06%20S07%20).pdf">Assignment1:Report on Visit to NALI 2023
 
