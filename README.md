@@ -74,5 +74,6 @@
 -<a href="https://github.com/tanszeqing06/tanszeqing06/blob/main/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023%20(%20G06%20S07%20).pdf">Assignment1:Report on Visit to NALI 2023
 
 -<a href="https://github.com/tanszeqing06/tanszeqing06/blob/main/INDUSTRY%20TALK%201_20231127_230427_0000%20(1).pdf">Assignment2:Industry Talk 1
+
 -<a href="https://github.com/tanszeqing06/tanszeqing06/blob/main/ASSIGNMENT%203-Video%20on%20Visit%20to%20UTMDigital%20and%20the%20Attended%20Virtual%20Talk.pdf"> Assignment3: Video on Visit to UTMDigital and the Attended Virtual Talk 
 
