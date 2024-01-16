@@ -9,13 +9,13 @@
 - 🔭 I’m currently learning computer science with respect of grafic and multimedia software🎮  
   
 
--   
+-   ⚡ Fun fact: I like to explore new things  
   
 
 -   
   
 
-- ⚡ Fun fact: I like to explore new things  
+
   
 
 <br/>  
@@ -72,6 +72,7 @@
 
 ## Assignment
 -<a href="https://github.com/tanszeqing06/tanszeqing06/blob/main/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023%20(%20G06%20S07%20).pdf">Assignment1:Report on Visit to NALI 2023
+hfgjhdsgfjhsd
 
 -<a href="https://github.com/tanszeqing06/tanszeqing06/blob/main/INDUSTRY%20TALK%201_20231127_230427_0000%20(1).pdf">Assignment2:Industry Talk 1
 
