@@ -77,3 +77,5 @@
 
 -<a href="https://github.com/tanszeqing06/tanszeqing06/blob/main/ASSIGNMENT%203-Video%20on%20Visit%20to%20UTMDigital%20and%20the%20Attended%20Virtual%20Talk.pdf"> Assignment3: Video on Visit to UTMDigital and the Attended Virtual Talk 
 
+-<a href="https://github.com/tanszeqing06/tanszeqing06/blob/main/ASSIGNMENT%204%20(INDUSTRY%20TALK%202)(GROUP%206).pdf"> Assignment4: Report on Industrial Talk 2a
+
