@@ -81,5 +81,5 @@
 -<a href="https://github.com/tanszeqing06/tanszeqing06/blob/main/ASSIGNMENT%204%20(INDUSTRY%20TALK%202)(GROUP%206).pdf"> Assignment4: Report on Industrial Talk 2a
 
 ## my picture
-<img src="C:\Users\System Manager\OneDrive\Pictures\陈思晴.jpeg"> my picture
+![My Picture](images/陈思晴.jpeg)
  
